@@ -25,7 +25,9 @@ Syntax highlighted code block
 
 [Code](https://github.com/serg-yalosovetsky/site/new/gh-pages) and ![Image](src)
 ```
-[Code](https://github.com/serg-yalosovetsky/site/new/gh-pages)
+[Code](https://serg-yalosovetsky.github.io/site/)
+[Code](https://serg-yalosovetsky.github.io/site/code)
+[Code](https://serg-yalosovetsky.github.io/site/index)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
