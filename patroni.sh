@@ -9,5 +9,7 @@ sudo apt-get update
 
 # Install the latest version of PostgreSQL.
 # If you want a specific version, use 'postgresql-12' or similar instead of 'postgresql':
-sudo apt-get -y install postgresql
+sudo apt-get -y install postgresql python3-psycopg2
 pip3 install patroni[etcd]
+PATH=$PATH:~/.local/bin
+echo PATH=$PATH:~/.local/bin >> ~/.profile
